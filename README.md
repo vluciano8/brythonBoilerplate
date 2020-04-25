@@ -3,7 +3,7 @@
   <br>
   Simple BoilerPlate made with Python on the Browser using Brython and CSS Grid.
 
-  Tech Used:  
+## Tech Used  
   <br>
   <ul>
     <li>Brython,</li>
